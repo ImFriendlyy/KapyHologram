@@ -1,6 +1,6 @@
 # KapyHolograms — Documentation
 
-> **Version:** 1.0 · **Server:** Paper 1.20.5+ · **Java:** 21+
+> **Version:** 1.0 · **Server:** Paper 1.19.4+ · **Java:** 21+
 
 ---
 
